@@ -41,4 +41,4 @@ customer-retention-analysis
 ```
 
 ## Ссылка на проект
-[Открыть проект (Jupyter Notebook)](./customer-retention-analysis.ipynb)
+<!--[Открыть проект (Jupyter Notebook)](./customer-retention-analysis.ipynb)
